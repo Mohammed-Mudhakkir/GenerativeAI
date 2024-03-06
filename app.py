@@ -12,7 +12,7 @@ import textwrap
 
 import google.generativeai as genai
 
-import display
+#import display
 from IPython.display import Markdown
 
 
